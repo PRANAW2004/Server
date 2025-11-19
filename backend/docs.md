@@ -73,6 +73,7 @@ This API allows the client to calculate the power of a given base raised to a sp
     "area":3.14,
     "circumference":6.28
 }
+```
 
 **Error Handling:**
 - Possible 400 (invalid request) errors (all in JSON):
